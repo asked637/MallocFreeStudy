@@ -1,2 +1,1 @@
-# MallocFreeStudy
-practice for MallocFree study
+collections of fuzz-samples
